@@ -5,6 +5,11 @@ import requests
 import json
 
 ETHER_VALUE = 10 ** 18
+# This a test comment so we can see the review process and how accepting it works.
+# Given you gave me collaboration permissions, it allows me to change things directly.
+# It is good practice for me to create a branch so I never edit your code and can just propose
+#  edits or changes that you can review and reject or approve as you want.
+
 api_key = 'B3SESBMT1GA3N39IYWU4KPTH1IYAME4XY7'  # Replace with your Etherscan API key
 url = "https://api.etherscan.io/api"
 
